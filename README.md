@@ -42,7 +42,3 @@ It helps understand profit trends, popular product categories, customer purchase
 - **Power Query**
 - **DAX**
   
-
----
-
-## 📁 Repository Structure
